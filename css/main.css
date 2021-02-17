@@ -118,8 +118,8 @@ img {
 .site-nav .link,
 .auth-nav .link {
   display: block;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 32px;
+  padding-bottom: 32px;
   color: var(--primary-text-color);
   font-weight: 500;
   font-size: 14px;
@@ -263,7 +263,7 @@ img {
 
 .description {
   background-color: var(--white-color);
-  padding: 30px 15px;
+  padding: 30px 32px;
   text-align: center;
 }
 
@@ -356,6 +356,7 @@ img {
 
 .logo.secondary {
   display: inline-block;
+  padding: 0;
   margin-bottom: 20px;
   color: var(--white-color);
 }
